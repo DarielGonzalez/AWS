@@ -1,0 +1,2 @@
+# AWS
+Script generate AWS
